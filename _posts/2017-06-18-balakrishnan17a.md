@@ -3,7 +3,7 @@ title: Computationally Efficient Robust Sparse Estimation in High Dimensions
 abstract: Many conventional statistical procedures are extremely sensitive to seemingly
   minor deviations from modeling assumptions. This problem is exacerbated in modern
   high-dimensional settings, where the problem dimension can grow with and possibly
-  exceed the sample size.  We consider the problem of \emphrobust estimation of sparse
+  exceed the sample size.  We consider the problem of robust estimation of sparse
   functionals, and  provide a computationally and statistically efficient algorithm
   in the high-dimensional setting. Our theory identifies a unified set of deterministic
   conditions under which our algorithm guarantees accurate recovery.  By further establishing
