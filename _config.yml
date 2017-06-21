@@ -1,0 +1,63 @@
+---
+booktitle: Proceedings of the 2017 Conference on Learning Theory
+shortname: COLT
+volume: 65
+year: '2017'
+start: 2017-07-07
+end: 2017-07-10
+url: http://proceedings.mlr.press
+location: Amsterdam, Netherlands
+published: 2017-06-18
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COLT-2017
+month: 0
+cycles: false
+editor:
+- given: Satyen
+  family: Kale
+- given: Ohad
+  family: Shamir
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 2017 Conference on Learning Theory on 07-10 July 2017
+
+  Published as Volume 65 by the Proceedings of Machine Learning Research on 18 June 2017.
+
+  Volume Edited by:
+    Satyen Kale
+    Ohad Shamir
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 07--10 Jul
+baseurl: "/v65"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v65
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Learning Theory
+  url: 
+  location: 
+  dates:
+  - 2017-07-07
+  - 2017-07-08
+  - 2017-07-09
+  - 2017-07-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v65/colt2017.bib
