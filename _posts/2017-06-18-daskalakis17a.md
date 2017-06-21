@@ -12,10 +12,10 @@ abstract: We show that the square Hellinger distance between two Bayesian networ
   derive a similar inequality for more general Markov Random Fields. As an application
   of our inequality, we show that distinguishing whether two (unknown) Bayesian networks
   $P$ and $Q$ on the same (but potentially unknown) DAG satisfy $P=Q$ vs $d_\rm TV(P,Q)>ε$
-  can be performed from $\tildeO(|Σ|^3/4(d+1) ⋅n/ε^2)$ samples, where $d$ is the maximum
+  can be performed from $\tilde{O}(|Σ|^3/4(d+1) ⋅n/ε^2)$ samples, where $d$ is the maximum
   in-degree of the DAG and $Σ$ the domain of each variable of the Bayesian networks.
   If $P$ and $Q$ are defined on potentially different and potentially unknown trees,
-  the sample complexity becomes $\tildeO(|Σ|^4.5 n/ε^2)$. In both cases the dependence
+  the sample complexity becomes $\tilde{O}(|Σ|^4.5 n/ε^2)$. In both cases the dependence
   of the sample complexity on $n, ε$ is optimal up to logarithmic factors. Lastly,
   if $P$ and $Q$ are product distributions over ${0,1}^n$ and $Q$ is known, the sample
   complexity becomes $O(\sqrtn/ε^2)$, which is optimal up to constant factors.
