@@ -2,11 +2,11 @@
 title: Learning Multivariate Log-concave Distributions
 abstract: 'We study the problem of estimating multivariate log-concave probability
   density functions. We prove the first sample complexity upper bound for learning
-  log-concave densities on $\mathbbR^d$, for all $d ≥1$. Prior to our work, no upper
+  log-concave densities on $\mathbb{R}^d$, for all $d ≥1$. Prior to our work, no upper
   bound on the sample complexity of this learning problem was known for the case of
   $d>3$. In more detail, we give an estimator that, for any $d \ge 1$ and $ε>0$, draws
-  $\tildeO_d \left( (1/ε)^(d+5)/2 \right)$ samples from an unknown target log-concave
-  density on $\R^d$, and outputs a hypothesis that (with high probability) is $ε$-close
+  $\tilde{O}_d \left( (1/ε)^(d+5)/2 \right)$ samples from an unknown target log-concave
+  density on $R^d$, and outputs a hypothesis that (with high probability) is $ε$-close
   to the target, in total variation distance. Our upper bound on the sample complexity
   comes close to the known lower bound of $\Omega_d \left( (1/ε)^(d+1)/2 \right)$
   for this problem. '
