@@ -11,9 +11,9 @@ abstract: The Expectation-Maximization (EM) algorithm is a widely used method fo
   provide simple, closed-form expressions for the convergence rate. As a simple illustration,
   we show that, in one dimension, ten steps of the EM algorithm initialized at infinity
   result in less than $1%$ error estimation of the means. In the finite sample regime,
-  we show that, under a random initialization, $\tildeO(d/ε^2)$ samples suffice to
+  we show that, under a random initialization, $\tilde{O}(d/ε^2)$ samples suffice to
   compute the unknown vectors to within $ε$ in Mahalanobis distance, where $d$ is
-  the dimension. In particular, the error rate of the EM based estimator is $\tildeO\left(\sqrtd
+  the dimension. In particular, the error rate of the EM based estimator is $\tilde{O}\left(\sqrt{d}
   \over n\right)$ where $n$ is the number of samples, which is optimal up to logarithmic
   factors.
 layout: inproceedings
