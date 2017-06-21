@@ -18,7 +18,7 @@ abstract: We show that the square Hellinger distance between two Bayesian networ
   the sample complexity becomes $\tilde{O}(|Σ|^4.5 n/ε^2)$. In both cases the dependence
   of the sample complexity on $n, ε$ is optimal up to logarithmic factors. Lastly,
   if $P$ and $Q$ are product distributions over ${0,1}^n$ and $Q$ is known, the sample
-  complexity becomes $O(\sqrtn/ε^2)$, which is optimal up to constant factors.
+  complexity becomes $O(\sqrt{n}/ε^2)$, which is optimal up to constant factors.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: daskalakis17a
