@@ -1,0 +1,19 @@
+# PMLR V65
+
+To suggest fixes to this volume please make a pull request containng the changes requested and a justificaiton for the changes.
+
+To edit the details of this conference work [edit the _config.yml](./_config.yml) file and submit a pull request.
+
+To make changes to the individual paper details, edit the associated paper file in the [./_posts](./_posts) subdirectory.
+
+Proceedings of the 2017 Conference on Learning Theory on 07-10 July 2017
+
+Published as Volume 65 by the Proceedings of Machine Learning Research on 18 June 2017.
+
+Volume Edited by:
+  Satyen Kale
+  Ohad Shamir
+
+Series Editors:
+  Neil D. Lawrence
+  Mark Reid
