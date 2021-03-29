@@ -1,16 +1,19 @@
 ---
 title: Two-Sample Tests for Large Random Graphs Using Network Statistics
-abstract: We consider a two-sample hypothesis testing problem, where the distributions
-  are defined on the space of undirected graphs, and one has access to only one observation
-  from each model. A motivating example for this problem is comparing the friendship
-  networks on Facebook and LinkedIn. The practical approach to such problems is to
-  compare the networks based on certain network statistics. In this paper, we present
-  a general principle for two-sample hypothesis testing in such scenarios without
-  making any assumption about the network generation process. The main contribution
-  of the paper is a general formulation of the problem based on concentration of network
-  statistics, and consequently, a consistent two-sample test that arises as the natural
-  solution for this problem. We also show that the proposed test is minimax optimal
-  for certain network statistics.
+abstract: |
+  We consider a two-sample hypothesis testing problem, where the
+  distributions are defined on the space of undirected graphs, and one
+  has access to only one observation from each model. A motivating
+  example for this problem is comparing the friendship networks on
+  Facebook and LinkedIn. The practical approach to such problems is to
+  compare the networks based on certain network statistics. In this
+  paper, we present a general principle for two-sample hypothesis
+  testing in such scenarios without making any assumption about the
+  network generation process. The main contribution of the paper is a
+  general formulation of the problem based on concentration of network
+  statistics, and consequently, a consistent two-sample test that
+  arises as the natural solution for this problem. We also show that
+  the proposed test is minimax optimal for certain network statistics.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ghoshdastidar17a
@@ -29,7 +32,8 @@ author:
 - given: Alexandra
   family: Carpentier
 - given: Ulrike
-  family: von Luxburg
+  prefix: von
+  family: Luxburg
 date: 2017-06-18
 address: 
 publisher: PMLR
